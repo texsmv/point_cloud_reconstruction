@@ -1,0 +1,3 @@
+/home/texs/Documents/Repositorios/point_cloud_reconstruction/without_deep_learning/build2/CMakeFiles/rebuild_cache.dir
+/home/texs/Documents/Repositorios/point_cloud_reconstruction/without_deep_learning/build2/CMakeFiles/main.dir
+/home/texs/Documents/Repositorios/point_cloud_reconstruction/without_deep_learning/build2/CMakeFiles/edit_cache.dir
